@@ -7,7 +7,7 @@
 ## 1. Published links
 
 - GitHub repository: (https://github.com/megaorbits/webgis-lab2-538160)]
-- Live map: **[FILL: insert GitHub Pages URL]**
+- Live map: (https://megaorbits.github.io/webgis-lab2-538160/)
 
 ## 2. GeoJSON and shapefile sizes
 
